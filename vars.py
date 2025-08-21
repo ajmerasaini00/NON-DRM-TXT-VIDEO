@@ -12,3 +12,4 @@ ADMINS = [1977145189]  # Replace with your real Telegram ID
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
 
+
